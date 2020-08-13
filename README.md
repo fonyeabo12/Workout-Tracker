@@ -1,5 +1,7 @@
 
         # Workout Tracker Application
+        https://git.heroku.com/mongo-workouttracker-atlas.git
+        https://github.com/fonyeabo12/Workout-Tracker
 
 ## The Application allows user to track information about workouts. Information such as types of workouts done, time and general statistics.
         *[Description](#Description)
